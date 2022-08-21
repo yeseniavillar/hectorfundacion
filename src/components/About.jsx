@@ -39,7 +39,8 @@ export default function About () {
                 <div className="icon-box">
                   <div className="icon"><i className='bx bx-world'></i></div>
                   <h4 className="title"><a href="#about">Mision</a></h4>
-                  <p className="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                  <p className="description">Contribuir a mejorar el desempeño de los sistemas socio ecológicos, a través 
+                  de la producción de evidencias, asistencia técnica, entrenamiento y difusión de conocimientos.</p>
                 </div>
 
                 <div className="icon-box">

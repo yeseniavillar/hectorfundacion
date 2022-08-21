@@ -7,9 +7,6 @@ export default function News () {
       <div className="container">
         <div className="section-title">
           <h2>News</h2>
-          <p>
-            Aqui puede ver la ultimas noticias  y actividades sobre la fundacion
-          </p><br></br>
         </div>
       </div>
 
@@ -24,31 +21,28 @@ export default function News () {
             <div className="carousel-item active">
               <div className="container text-danger">
                 <div className="carousel-caption text-start">
-                <h1>Fundacion Hector A. RodrigueZ</h1>
+                  <h1>Fundacion Hector A. Rodriguez</h1>
                   <p>La Fundación apoya la creencia de que todos los individuos tienen derecho a la dignidad
                     y al amor propio y que la mayoría de los individuos están dispuestos, cuando se les da la
                     oportunidad, a hacerse responsables de sus actos y de su bienestar. La Fundación también
                     cree que las personas competentes también se benefician de los estímulos y los recordatorios
                     ocasionales</p>
-                  <p><a className="btn btn-lg btn-danger" href="#">Sign up today</a></p>
                 </div>
               </div>
             </div>
             <div className="carousel-item">
               <div className="container">
                 <div className="carousel-caption">
-                  <h1>Another example headline.</h1>
+                  <h1>Fundacion Hector A. Rodriguez</h1>
                   <p>Some representative placeholder content for the second slide of the carousel.</p>
-                  <p><a className="btn btn-lg btn-primary" href="#">Learn more</a></p>
                 </div>
               </div>
             </div>
             <div className="carousel-item">
               <div className="container">
-                <div className="carousel-caption text-end">
-                  <h1>One more for good measure.</h1>
+                <div className="carousel-caption">
+                  <h1>Fundacion Hector A. Rodriguez</h1>
                   <p>Some representative placeholder content for the third slide of this carousel.</p>
-                  <p><a className="btn btn-lg btn-success" href="#">Browse gallery</a></p>
                 </div>
               </div>
             </div>
