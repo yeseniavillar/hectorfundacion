@@ -350,12 +350,12 @@ margin-top: 80px;
 # Team
 --------------------------------------------------------------*/
 .team .member {
-  margin-bottom: 20px;
   overflow: hidden;
   border-radius: 5px;
-  background: #fff;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-}
+  background: #111;
+  box-shadow: 0px 2px 15px rgba(13, 79, 232, 0.1);
+  }
+
 
 .team .member .member-img {
   position: relative;
@@ -404,22 +404,22 @@ margin-top: 80px;
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #0f394c;
+  color: white;
 }
 
 .team .member .member-info span {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
-}
+  color: white;
+  }
 
 .team .member .member-info p {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
   color: #777777;
-}
+ }
 
 .team .member:hover .social {
   opacity: 1;

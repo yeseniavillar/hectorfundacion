@@ -22,7 +22,7 @@ export default function Contacts () {
                 <div className="address">
                   <i className="bi bi-geo-alt"></i>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Santo Domingo, República Dominicana</p>
                 </div>
 
                 <div className="email">

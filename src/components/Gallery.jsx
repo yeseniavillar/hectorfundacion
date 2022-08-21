@@ -10,6 +10,10 @@ import img8 from '../images/gallery/img8.jpg'
 import img9 from '../images/gallery/img9.jpg'
 import img11 from '../images/gallery/img11.jpg'
 import img12 from '../images/gallery/img12.jpg'
+import img13 from '../images/gallery/img13.jpg'
+import img14 from '../images/gallery/img14.jpg'
+import img15 from '../images/gallery/img15.jpg'
+import img16 from '../images/gallery/img16.jpg'
 
 export default function Gallery () {
   return (
@@ -88,6 +92,7 @@ export default function Gallery () {
                 </a>
               </div>
             </div>
+
             <div className="col-lg-3 col-md-4">
               <div className="gallery-item">
                 <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
@@ -95,6 +100,7 @@ export default function Gallery () {
                 </a>
               </div>
             </div>
+
             <div className="col-lg-3 col-md-4">
               <div className="gallery-item">
                 <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
@@ -102,10 +108,43 @@ export default function Gallery () {
                 </a>
               </div>
             </div>
+
             <div className="col-lg-3 col-md-4">
               <div className="gallery-item">
                 <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
                   <img src={img12} alt="" className="img-fluid" />
+                </a>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-md-4">
+              <div className="gallery-item">
+                <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
+                  <img src={img13} alt="" className="img-fluid" />
+                </a>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-md-4">
+              <div className="gallery-item">
+                <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
+                  <img src={img14} alt="" className="img-fluid" />
+                </a>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-md-4">
+              <div className="gallery-item">
+                <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
+                  <img src={img15} alt="" className="img-fluid" />
+                </a>
+              </div>
+            </div>
+
+            <div className="col-lg-3 col-md-4">
+              <div className="gallery-item">
+                <a href="assets/img/gallery/gallery-8.jpg" className="galleery-lightbox" data-gallery="gallery-item">
+                  <img src={img16} alt="" className="img-fluid" />
                 </a>
               </div>
             </div>
