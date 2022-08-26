@@ -32,7 +32,7 @@ export default function Navbar () {
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="#team">Team</a>
+          <a className="nav-link" href="#team">Founder</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#contact">Contacts</a>
