@@ -24,8 +24,8 @@ export default function About () {
                 regulación y fomento de las asociaciones sin fines de lucro.
               </p><br></br>
               <p>
-              Somos una organización que tiene la finalidad de ayudar al mas desamparado sin ningún fin
-              lucrativo, brindar la confianza y esperanza al desvalido.
+                Somos una organización que tiene la finalidad de ayudar al mas desamparado sin ningún fin
+                lucrativo, brindar la confianza y esperanza al desvalido.
               </p>
 
             </div>
@@ -39,8 +39,9 @@ export default function About () {
                 <div className="icon-box">
                   <div className="icon"><i className='bx bx-world'></i></div>
                   <h4 className="title"><a href="#about">Mision</a></h4>
-                  <p className="description">Contribuir a mejorar el desempeño de los sistemas socio ecológicos, a través 
-                  de la producción de evidencias, asistencia técnica, entrenamiento y difusión de conocimientos.</p>
+                  <p className="description"> Contribuir a mejorar el desempeño de los sistemas socio ecológicos, a través
+                    de la producción de evidencias, asistencia técnica, entrenamiento y difusión de conocimientos.
+                  </p>
                 </div>
 
                 <div className="icon-box">
