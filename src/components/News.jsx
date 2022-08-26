@@ -34,7 +34,7 @@ export default function News () {
               <div className="container">
                 <div className="carousel-caption">
                   <h1>Fundacion Hector A. Rodriguez</h1>
-                  <p>Some representative placeholder content for the second slide of the carousel.</p>
+                  <p>Some representative placeholder content for the second slide of the.</p>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@ export default function News () {
               <div className="container">
                 <div className="carousel-caption">
                   <h1>Fundacion Hector A. Rodriguez</h1>
-                  <p>Some representative placeholder content for the third slide of this carousel.</p>
+                  <p>Some representative placeholder content for the third slide of this.</p>
                 </div>
               </div>
             </div>
