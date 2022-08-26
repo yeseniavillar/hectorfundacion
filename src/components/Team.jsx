@@ -11,7 +11,7 @@ export default function Team () {
             <h2>Founder</h2>
           </div>
 
-          <div className="row">
+          <div className="row align-items-center">
 
             <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div className="member">

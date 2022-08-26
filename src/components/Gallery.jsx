@@ -7,9 +7,7 @@ import img9 from '../images/gallery/img9.jpg'
 
 export default function Gallery () {
   return (
-
-    <Fragment>
-
+<Fragment>
 <section id="gallery" className="gallery mt-5">
 <div className="container">
            <div className="section-title">
